@@ -1,0 +1,12 @@
+- descr: <strong>CVE-2017-8634</strong>, Memory Corruption in Edge Chakra.
+  year : 2017
+
+- descr: <strong>CVE-2016-1665</strong>, Information leak in Chrome V8. (reward $1,000)
+  year : 2016
+  link : https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html
+
+- descr: Local Privilege Escalation in OSX Yosemite (10.10.3) via Parallels 
+  year : 2015
+
+- descr: XSS in KakaoTalk
+  year : 2015

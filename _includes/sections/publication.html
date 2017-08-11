@@ -1,0 +1,17 @@
+<h1>
+    <i class = "fa fa-book"> </i>
+    <span data-i18n="skills.my_skills">Publications</span>
+</h1>
+
+<div>
+  <ol>
+    {% for paper in site.data.index.publication %}
+        <li>
+            <strong>{{paper.title}} {{paper.howto}}</strong><br>
+            {{paper.authors}}<br>
+            {{paper.where}} , {{paper.year}}
+        </li>
+        <br>
+    {% endfor %}
+  </ol>
+</div>
