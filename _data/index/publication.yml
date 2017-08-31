@@ -1,12 +1,12 @@
 - title: "IMF: Inferred Model-based Fuzzer"
-  howto: (to appear)
+  howto: (<a href="/paper/han-ccs2017.pdf">PDF</a>)
   where: In <em>Proceedings of the ACM Conference on Computer and Communications Security</em>
   year : 2017
   authors: <strong>HyungSeok Han</strong>, and Sang Kil Cha.
 
 - title: "Breaking and Fixing VoLTE: Exploiting Hidden Data Channels
   and Mis-implementations"
-  howto: ""
+  howto: (<a href="/paper/kim-ccs2015.pdf">PDF</a>)
   where: In <em>Proceedings of the ACM Conference on Computer and Communications Security</em>
   year : 2015
   authors: Hongil Kim, Dongkwan Kim, Minhee Kwon, <strong>Hyungseok Han</strong>, Yeongjin Jang, Dongsu Han, Taesoo Kim, and Yongdae Kim
