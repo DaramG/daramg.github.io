@@ -1,5 +1,5 @@
 - title: "IMF: Inferred Model-based Fuzzer"
-  howto: (<a href="/paper/han-ccs2017.pdf">PDF</a>)
+  howto: (<a href="/paper/han-ccs2017.pdf">PDF</a>)(<a href="https://github.com/SoftSec-KAIST/IMF">Github</a>)
   where: In <em>Proceedings of the ACM Conference on Computer and Communications Security</em>
   year : 2017
   authors: <strong>HyungSeok Han</strong>, and Sang Kil Cha.
