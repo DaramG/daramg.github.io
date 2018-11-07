@@ -1,3 +1,9 @@
+- title: "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines"
+  howto: (to appear)
+  where: In <em>Proceedings of the Network and Distributed System Security Symposium</em>
+  year : 2019
+  authors: <strong>HyungSeok Han</strong>, DongHyeon Oh, and Sang Kil Cha.
+  
 - title: "IMF: Inferred Model-based Fuzzer"
   howto: (<a href="/paper/han-ccs2017.pdf">PDF</a>)(<a href="https://github.com/SoftSec-KAIST/IMF">Github</a>)
   where: In <em>Proceedings of the ACM Conference on Computer and Communications Security</em>
