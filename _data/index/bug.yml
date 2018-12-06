@@ -1,3 +1,9 @@
+- descr: <strong>CVE-2018-4464</strong>, Arbitrary code execution in JavaSriptCore of Safari.
+  year : 2018
+  
+- descr: <strong>CVE-2018-4437</strong>, Arbitrary code execution in JavaSriptCore of Safari.
+  year : 2018
+
 - descr: <strong>CVE-2018-4378</strong>, Arbitrary code execution in JavaSriptCore of Safari.
   year : 2018
   
