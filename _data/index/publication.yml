@@ -1,3 +1,9 @@
+- title: "B2R2: Building an Efficient Front-End for Binary Analysis"
+  howto: (<a href="#">to appear</a>)
+  where: In <em>Proceedings of the NDSS WorkShop on Binary Analysis Research</em>
+  year : 2019
+  authors: Minkyu Jung, Soomin Kim, <strong>HyungSeok Han</strong>, Jaeseung Choi, and Sang Kil Cha.
+  
 - title: "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines"
   howto: (<a href="/paper/han-ndss2019.pdf">PDF</a>)
   where: In <em>Proceedings of the Network and Distributed System Security Symposium</em>
