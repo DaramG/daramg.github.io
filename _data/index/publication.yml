@@ -5,7 +5,7 @@
   authors: Minkyu Jung, Soomin Kim, <strong>HyungSeok Han</strong>, Jaeseung Choi, and Sang Kil Cha.
   
 - title: "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines"
-  howto: (<a href="/paper/han-ndss2019.pdf">PDF</a>)
+  howto: (<a href="/paper/han-ndss2019.pdf">PDF</a>)(<a href="https://github.com/SoftSec-KAIST/CodeAlchemist">Github</a>)
   where: In <em>Proceedings of the Network and Distributed System Security Symposium</em>
   year : 2019
   authors: <strong>HyungSeok Han</strong>, DongHyeon Oh, and Sang Kil Cha.
