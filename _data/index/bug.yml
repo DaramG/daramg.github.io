@@ -1,3 +1,6 @@
+- descr: <strong>CVE-2019-0860</strong>, Arbitrary code execution in ChakraCore of Edge.
+  year : 2019
+
 - descr: <strong>CVE-2018-4464</strong>, Arbitrary code execution in JavaSriptCore of Safari.
   year : 2018
   
@@ -13,10 +16,10 @@
 - descr: <strong>CVE-2017-7159</strong>, Arbitrary code execution with system privileges in macOS 10.13.1.
   year : 2017
 
-- descr: <strong>CVE-2017-8634</strong>, Memory Corruption in Edge Chakra.
+- descr: <strong>CVE-2017-8634</strong>, Memory Corruption in ChakraCore of Edge.
   year : 2017
 
-- descr: <strong>CVE-2016-1665</strong>, Information leak in Chrome V8. (reward $1,000)
+- descr: <strong>CVE-2016-1665</strong>, Information leak in V8 of Chrome. (reward $1,000)
   year : 2016
   link : https://chromereleases.googleblog.com/2016/04/stable-channel-update_28.html
 
