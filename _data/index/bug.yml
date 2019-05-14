@@ -1,3 +1,6 @@
+- descr: <strong>CVE-2019-8594</strong>, Arbitrary code execution in JavaSriptCore of Safari.
+  year : 2019
+
 - descr: <strong>CVE-2019-0860</strong>, Arbitrary code execution in ChakraCore of Edge.
   year : 2019
 
