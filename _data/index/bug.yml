@@ -1,4 +1,4 @@
-- descr: <strong>CVE-2019-0923</strong>, Memory Corruption in ChakraCore of Edge.
+- descr: <strong>CVE-2019-0923</strong>, Memory corruption in ChakraCore of Edge.
   year : 2019
 
 - descr: <strong>CVE-2019-8594</strong>, Arbitrary code execution in JavaSriptCore of Safari.
@@ -22,7 +22,7 @@
 - descr: <strong>CVE-2017-7159</strong>, Arbitrary code execution with system privileges in macOS 10.13.1.
   year : 2017
 
-- descr: <strong>CVE-2017-8634</strong>, Memory Corruption in ChakraCore of Edge.
+- descr: <strong>CVE-2017-8634</strong>, Memory corruption in ChakraCore of Edge.
   year : 2017
 
 - descr: <strong>CVE-2016-1665</strong>, Information leak in V8 of Chrome. (reward $1,000)
