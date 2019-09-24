@@ -1,3 +1,9 @@
+- title: "Montage: A Neural Network Language Model-Guided JavaScript Fuzzer"
+  howto: (<a href="/">to appear</a>)
+  where: In <em>Proceedings of the USENIX Security Symposium</em>
+  year : 2020
+  authors: Suyoung Lee, <strong>HyungSeok Han</strong>, Sang Kil Cha, and Sooel Son.
+  
 - title: "B2R2: Building an Efficient Front-End for Binary Analysis"
   howto: (<a href="https://softsec.kaist.ac.kr/~sangkilc/papers/jung-bar19.pdf">PDF</a>)(<a href="https://github.com/B2R2-org/B2R2">Github</a>)
   where: In <em>Proceedings of the NDSS WorkShop on Binary Analysis Research (Best Paper Award)</em>
