@@ -1,5 +1,5 @@
 - title: "Montage: A Neural Network Language Model-Guided JavaScript Fuzzer"
-  howto: (<a href="/">to appear</a>)
+  howto: (<a href="https://leeswimming.com/papers/lee-sec20.pdf">PDF</a>)
   where: In <em>Proceedings of the USENIX Security Symposium</em>
   year : 2020
   authors: Suyoung Lee, <strong>HyungSeok Han</strong>, Sang Kil Cha, and Sooel Son.
