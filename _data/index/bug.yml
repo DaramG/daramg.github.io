@@ -1,3 +1,9 @@
+- descr: <strong>CVE-2020-6434</strong>, Use after free in Google Chrome.
+  year : 2020
+  
+- descr: <strong>CVE-2020-3915</strong>, Local Privilege Escalation in macOS 10.15.3.
+  year : 2020
+  
 - descr: <strong>CVE-2019-0923</strong>, Memory corruption in ChakraCore of Edge.
   year : 2019
 
