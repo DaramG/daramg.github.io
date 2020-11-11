@@ -1,3 +1,9 @@
+- descr: <strong>CVE-2020-17041</strong>, Local Privilege Escalation in Windows.
+  year : 2020
+  
+- descr: <strong>CVE-2020-17042</strong>, Remote Code Exeuction in Windows.
+  year : 2020
+  
 - descr: <strong>CVE-2020-6434</strong>, Use after free in Google Chrome.
   year : 2020
   
