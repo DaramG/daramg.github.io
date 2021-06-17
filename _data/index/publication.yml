@@ -1,3 +1,9 @@
+- title: "Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs"
+  howto: (to appear)
+  where: In <em>Proceedings of the USENIX Security Symposium</em>
+  year : 2021
+  authors: <strong>HyungSeok Han</strong>, Andrew Wesie, and Brian Pak.
+  
 - title: "Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer"
   howto: (<a href="https://leeswimming.com/papers/lee-sec20.pdf">PDF</a>)
   where: In <em>Proceedings of the USENIX Security Symposium</em>
