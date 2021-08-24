@@ -1,5 +1,11 @@
-- title: "Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs"
+- title: "HyperFuzzer: An Efficient Hybrid Fuzzer For Virtual CPUs"
   howto: (to appear)
+  where: In <em>Proceedings of the ACM Conference on Computer and Communications Security</em>
+  year : 2021
+  authors: Xinyang Ge, Ben Niu, Robert Brotzman, Yaohui Chen, <strong>HyungSeok Han</strong>, Patrice Godefroid, and Weidong Cui
+  
+- title: "Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs"
+  howto: (<a href="https://www.usenix.org/system/files/sec21-han-hyungseok.pdf">PDF</a>)(<a href="https://github.com/DaramG/CGSan">Github</a>)
   where: In <em>Proceedings of the USENIX Security Symposium</em>
   year : 2021
   authors: <strong>HyungSeok Han</strong>, Andrew Wesie, and Brian Pak.
