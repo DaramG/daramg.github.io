@@ -1,3 +1,15 @@
+- descr: <strong>CVE-2021-41378</strong>, Remote Code Execution in Windows.
+  year : 2021
+  
+- descr: <strong>CVE-2021-41370</strong>, Local Privilege Escalation in Windows.
+  year : 2021
+
+- descr: <strong>CVE-2021-41367</strong>, Local Privilege Escalation in Windows.
+  year : 2021
+
+- descr: <strong>CVE-2021-40443</strong>, Local Privilege Escalation in Windows.
+  year : 2021
+  
 - descr: <strong>CVE-2020-17041</strong>, Local Privilege Escalation in Windows.
   year : 2020
   
