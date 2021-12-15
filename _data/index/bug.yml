@@ -1,3 +1,18 @@
+- descr: <strong>CVE-2021-43235</strong>, Information Disclousre in Windows Kernel.
+  year : 2021
+
+- descr: <strong>CVE-2021-43230</strong>, Local Privilege Escalation in Windows Kernel.
+  year : 2021
+  
+- descr: <strong>CVE-2021-43229</strong>, Local Privilege Escalation in Windows Kernel.
+  year : 2021
+  
+- descr: <strong>CVE-2021-43227</strong>, Information Disclousre in Windows Kernel.
+  year : 2021
+
+- descr: <strong>CVE-2021-43224</strong>, Information Disclousre in Windows Kernel.
+  year : 2021
+  
 - descr: <strong>CVE-2021-41378</strong>, Remote Code Execution in Windows Kernel.
   year : 2021
   
