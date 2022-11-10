@@ -1,3 +1,9 @@
+- title: "QueryX: Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries"
+  howto: (to appear)
+  where: In <em>Proceedings of the IEEE Symposium on Security and Privacy</em>
+  year : 2023
+  authors: <strong>HyungSeok Han</strong>, JeongOh Kyea, Yonghwi Jin, Jinoh Kang, Brian Pak, and Insu Yun
+  
 - title: "HyperFuzzer: An Efficient Hybrid Fuzzer For Virtual CPUs"
   howto: (<a href="https://www.microsoft.com/en-us/research/uploads/prod/2021/09/hyperfuzzer-ccs21.pdf">PDF</a>)
   where: In <em>Proceedings of the ACM Conference on Computer and Communications Security</em>
