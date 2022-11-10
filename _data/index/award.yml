@@ -1,47 +1,40 @@
-- descr: MSRC 2022 Most Valuable Researcher
-  year : 2022
-  
-- descr: Top MSRC 2021 Q4 Security Researchers
-  year : 2021
-  
-- descr: Top MSRC 2021 Q3 Security Researchers
-  year : 2021
-  
-- descr: Top MSRC 2020 Q3 Security Researchers
-  year : 2020
 
-- descr: <em>1st place</em>, KISA Data Challenge (Automated Vulnerability Detection Track)
-  year : 2018
+- year : 2022
+  descrs:
+    - MSRC 2022 Most Valuable Researcher
 
-- descr: <em>1st place</em>, Whitehat Contest 2017 by Ministry of National Defense, South Korea (award $30,000)
-  year : 2017
-  
-- descr: <em>1st place</em>, HDCON 14 by KISA, South Korea (award $20,000)
-  year : 2017
+- year : 2021
+  descrs:
+    - Top MSRC 2021 Q4 Security Researchers
+    - Top MSRC 2021 Q3 Security Researchers
 
-- descr: <em>3rd place</em>, CODEGATE 2017 Global Hacking Competition (award $5,000)
-  year : 2017
+- year : 2020
+  descrs:
+    - Top MSRC 2020 Q3 Security Researchers
 
-- descr: <em>Finalist</em>, SECCON CTF 2017
-  year : 2017
+- year : 2018
+  descrs:
+    - <em>1st place</em>, KISA Data Challenge (Automated Vulnerability Detection Track)
 
-- descr: <em>5th place</em>, DEFCON CTF 24 
-  year : 2016
+- year : 2017
+  descrs:
+    - <em>1st place</em>, Whitehat Contest 2017 by Ministry of National Defense, South Korea (award $30,000)
+    - <em>1st place</em>, HDCON 14 by KISA, South Korea (award $20,000)
+    - <em>3rd place</em>, CODEGATE 2017 Global Hacking Competition (award $5,000)
+    - <em>Finalist</em>, SECCON CTF 2017
 
-- descr: <em>Finalist</em>, HITCON CTF 2016
-  year : 2016
+- year : 2016
+  descrs:
+    - <em>5th place</em>, DEFCON CTF 24 
+    - <em>Finalist</em>, HITCON CTF 2016
 
-- descr: <em>Finalist</em>, SECCON CTF 2015
-  year : 2015
+- year : 2015
+  descrs:
+    - <em>Finalist</em>, SECCON CTF 2015
 
-- descr: <em>2nd place</em>, Whitehat Hacking Contest 2014 (award $20,000)
-  year : 2014
-
-- descr: <em>Finalist</em>, DEFCON CTF 22
-  year : 2014
-
-- descr: <em>Finalist</em>, CODEGATE 2014 Global Hacking Competition
-  year : 2014
-
-- descr: <em>Finalist</em>, SECUINSIDE CTF
-  year : 2014
+- year : 2014
+  descrs:
+    - <em>2nd place</em>, Whitehat Hacking Contest 2014 (award $20,000)
+    - <em>Finalist</em>, DEFCON CTF 22
+    - <em>Finalist</em>, CODEGATE 2014 Global Hacking Competition
+    - <em>Finalist</em>, SECUINSIDE CTF

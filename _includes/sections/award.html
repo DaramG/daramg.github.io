@@ -5,20 +5,20 @@
 
 <div>
   <ul>
-    {% for y in [2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022] reversed %}
-    <li>
-        <strong>{{y}}</strong>
-        <ul>
-        {% for award in site.data.index.award %}
-           {% if award.year == y %}
-                <li>
-                {{award.descr}}
-                </li>
-            {% endif %}
-        {% endfor %}
-        </ul>
-    </li>
-        {% endfor %}
+    
+    {% for award in site.data.index.award %}
+      <li>
+          <strong>{{award.year}}</strong>
+          <ul>
+          {% for desc in award.descrs %}
+            <li>
+            {{desc}}
+            </li>
+          {% endfor %}
+          </ul>
+      </li>
+    {% endfor %}
+
     <br>
   </ol>
 </div>
