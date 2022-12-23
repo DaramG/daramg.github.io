@@ -24,13 +24,13 @@
 
 - title: "The Art, Science, and Engineering of Fuzzing: A Survey"
   howto: (<a href="https://softsec.kaist.ac.kr/~sangkilc/papers/manes-tse19.pdf">PDF</a>)
-  where: <em>IEEE Transactions on Software Engineering</em>
+  where: <em>IEEE Transactions on Software Engineering</em> <strong>(Best Paper Award)<strong>
   year : 2019
   authors: Valentin Jean Marie Manès, <strong>HyungSeok Han</strong>, Choongwoo Han, Sang Kil Cha, Manuel Egele, Edward J. Schwartz, and Maverick Woo.
     
 - title: "B2R2: Building an Efficient Front-End for Binary Analysis"
   howto: (<a href="https://softsec.kaist.ac.kr/~sangkilc/papers/jung-bar19.pdf">PDF</a>)(<a href="https://github.com/B2R2-org/B2R2">Github</a>)
-  where: In <em>Proceedings of the NDSS WorkShop on Binary Analysis Research (Best Paper Award)</em>
+  where: In <em>Proceedings of the NDSS WorkShop on Binary Analysis Research</em> <strong>(Best Paper Award)<strong>
   year : 2019
   authors: Minkyu Jung, Soomin Kim, <strong>HyungSeok Han</strong>, Jaeseung Choi, and Sang Kil Cha.
   
