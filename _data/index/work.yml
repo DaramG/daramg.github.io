@@ -1,6 +1,10 @@
+- name: Samsung Research America
+  link: https://sra.samsung.com
+  date: 2024.3 -
+  descr: <strong> Staff Engineer</strong>
 - name: Georgia Tech SSLab 
   link: https://gts3.org
-  date: 2023.3 -
+  date: 2023.3 - 2024.3
   descr: <strong>Postdoctoral Fellow</strong>
 - name: Theori
   link: https://theori.io
