@@ -1,3 +1,9 @@
+- title: "I Experienced More than 10 DeFi Scams: On DeFi Users' Perception of Security Breaches and Countermeasures"
+  howto: (<a href="https://www.usenix.org/system/files/usenixsecurity24-liu-mingyi.pdf">PDF</a>)
+  where: In <em>Proceedings of the USENIX Security Symposium</em>
+  year : 2024
+  authors: Mingyi Liu, Jun Ho Huh, <strong>HyungSeok Han</strong>, Jaehyuk Lee, Jihae Ahn, and Frank Li, Hyoungshick Kim, and Taesoo Kim
+
 - title: "QueryX: Symbolic Query on Decompiled Code for Finding Bugs in COTS Binaries"
   howto: (<a href="/paper/han-sp2023.pdf">PDF</a>)
   where: In <em>Proceedings of the IEEE Symposium on Security and Privacy</em>
